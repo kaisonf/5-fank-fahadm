@@ -4,6 +4,8 @@
 ***
 ### Germany (Boss)
 ***
+> Health: 1000 HP
+> 
 > Attack: Shoot
 > 
 > Special: Blitzkrieg (Heavy Damage)
@@ -11,9 +13,13 @@
 > Support: Buff dmg
 > 
 > Mind Control Mechanics???
+>
+> Summoning allies??? They have to be weaker however...
 ***
 ### Italy
 ***
+> Health: 100 HP
+> 
 > Attack: Shoot
 > 
 > Special: Defends
@@ -22,6 +28,8 @@
 ***
 ### Japan
 ***
+> Health: 100 HP
+> 
 > Attack: Shoot
 > 
 > Special: Bombing (More damage than shoot)
